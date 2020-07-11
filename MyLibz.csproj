@@ -2,11 +2,11 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <PackageId>MyLib2</PackageId>
+    <PackageId>MyLibz</PackageId>
     <Version>1.0.0</Version>
     <Authors>DavidJones</Authors>
     <Company>sportronics</Company>
-    <PackageDescription>This package adds class library MyLib2</PackageDescription>
+    <PackageDescription>This package adds class library MyLibz</PackageDescription>
     <RepositoryUrl>https://github.com/djaus/MyLib</RepositoryUrl>
   </PropertyGroup>
 </Project>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyLib2
+namespace MyLibz
 {
     public class Class1
     {
